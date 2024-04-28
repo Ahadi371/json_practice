@@ -17,3 +17,4 @@ let gMaps = {
   
   console.log(gMaps.markers[0]);
   console.log(gMaps.markers[2].name);
+console.log(gMaps.markers[1].location[0]);
